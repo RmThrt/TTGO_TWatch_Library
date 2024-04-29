@@ -23,6 +23,7 @@
 10. Click (plug symbol) to monitor serial output
 
 
+
 ## 2️⃣ Arduino IDE Quick Start
 
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
